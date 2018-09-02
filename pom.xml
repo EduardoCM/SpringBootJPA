@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>SpringBootJPA</artifactId>
+	<artifactId>SpringBootJdbcTemplate</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>SpringBootJPA</name>
-	<description>Demo project for Spring Boot and JPA</description>
+	<description>Demo project for Spring Boot and Jdbc</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
