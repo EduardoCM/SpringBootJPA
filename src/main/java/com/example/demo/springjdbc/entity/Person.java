@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.example.demo.springjdbc.entity;
 
 import java.util.Date;
 

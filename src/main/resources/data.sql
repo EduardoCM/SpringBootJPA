@@ -10,3 +10,4 @@ CREATE TABLE person
 INSERT INTO person (id, name, location, birth_date) VALUES (10001, 'Eduardo', 'Anthares', sysdate());
 INSERT INTO person (id, name, location, birth_date) VALUES (10002, 'Eduardo', 'Estrella Arturo', sysdate());
 INSERT INTO person (id, name, location, birth_date) VALUES (10003, 'Eduardo', 'Jupiter', sysdate());
+
